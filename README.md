@@ -33,63 +33,13 @@ Before running the script, ensure you have the following installed:
    python3 cybersec.py -h 
 
 ## HELP
+![image](https://github.com/user-attachments/assets/a4b39e0d-83fb-485d-b1a4-527e8fd99e56)
 
-┌──(mavindu㉿kali)-[~/Desktop/full_zapscan]
-└─$ python cybersec.py -u urls.txt
----------------------------------------------------------------------------------------------------------------
------------- | Automate the scan for checking live hosts and vulnerabilities.| --------------
----------------------------------------------------------------------------------------------------------------
- /  __ \     | |             /  ___|          
-| /  \/_   _| |__   ___ _ __\ `--.  ___  ___ 
-| |   | | | | '_ \ / _ \ '__|`--. \/ _ \/ __|
-| \__/\ |_| | |_) |  __/ |  /\__/ /  __/ (__ 
- \____/\__, |_.__/ \___|_|  \____/ \___|\___|
-        __/ |                                
-       |___/                                 
-                                      V 0.1
-        ---------------------|by Mavindu_Wijesekara
--------------------------------------------------------------
-on 0: Starting ZAP scan for http://tab-ajc-qa-trade-universal.directfn.net
-on 0: Starting spider scan on: http://tab-ajc-qa-trade-universal.directfn.net
-on 0: Spider scan progress: 0%
-on 0: Spider scan progress: 90%
-on 0: Spider scan completed
-on 0: Starting active scan on: http://tab-ajc-qa-trade-universal.directfn.net
-on 0: Active scan progress: 0%
-on 0: Active scan progress: 12%
-on 0: Active scan progress: 12%
-on 0: Active scan progress: 12%
-on 0: Active scan progress: 12%
-on 0: Active scan progress: 23%
-on 0: Active scan progress: 23%
-on 0: Active scan progress: 38%
-on 0: Active scan progress: 38%
-on 0: Active scan progress: 38%
-on 0: Active scan progress: 39%
-on 0: Active scan progress: 39%
-on 0: Active scan progress: 39%
-on 0: Active scan progress: 40%
+
+
 ## TEST RUN
 
-on 1: Generating report for http://tab-alawwal-qa-trade-universal.directfn.net at /home/mavindu/Desktop/full_zapscan/reports/tab-alawwal-qa-trade-universal.directfn.net_report.html
-on 1: Report saved to: /home/mavindu/Desktop/full_zapscan/reports/tab-alawwal-qa-trade-universal.directfn.net_report.html
-|▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉| 3/3 [100%] in 9:01.4 (0.00/s) 
-
-
------------| CyberSec v0.1 :: by Mavindu_Wijesekara |-----------
-+------------------------------------------------------------------------------+
-|       -----------| CyberSec v0.1 :: by Mavindu_Wijesekara |-----------       |
-+-----------------------------------------------------+--------+---------------+
-| URL                                                 | Status | Title         |
-+-----------------------------------------------------+--------+---------------+
-| http://tab-ajc-qa-trade-universal.directfn.net      |  200   |               |
-| http://tab-alawwal-qa-trade-universal.directfn.net  |  200   |               |
-| http://tab-alkahir-dev-trade-universal.directfn.net |  403   | 403 Forbidden |
-+-----------------------------------------------------+--------+---------------+
-
-
-
-
+![image](https://github.com/user-attachments/assets/771bfb30-c419-4ad1-b186-76595f7c49cc)
 
 
 
